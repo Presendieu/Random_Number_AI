@@ -1,0 +1,14 @@
+C:\Users\Presendieu Olando\Desktop\_devoir1\bin\Debug\net6.0\_devoir1.exe
+C:\Users\Presendieu Olando\Desktop\_devoir1\bin\Debug\net6.0\_devoir1.deps.json
+C:\Users\Presendieu Olando\Desktop\_devoir1\bin\Debug\net6.0\_devoir1.runtimeconfig.json
+C:\Users\Presendieu Olando\Desktop\_devoir1\bin\Debug\net6.0\_devoir1.dll
+C:\Users\Presendieu Olando\Desktop\_devoir1\bin\Debug\net6.0\_devoir1.pdb
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.AssemblyInfoInputs.cache
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.AssemblyInfo.cs
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.csproj.CoreCompileInputs.cache
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.dll
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\refint\_devoir1.dll
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.pdb
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\_devoir1.genruntimeconfig.cache
+C:\Users\Presendieu Olando\Desktop\_devoir1\obj\Debug\net6.0\ref\_devoir1.dll
